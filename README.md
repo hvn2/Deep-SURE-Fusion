@@ -1,6 +1,6 @@
 # Deep-SURE-Fusion
  Official Pyorch codes for the paper "Deep SURE for unsupervised remote sensing image fusion", accepted in IEEE Transaction on Geoscience and Remote Sensing (TGRS), October, 2022.<br>
-Han V. Nguyen$^\ast$, Magnus O. Ulfarsson$^\ast$,  Johannes R. Sveinsson$^\ast$, and Mauro Dalla Mura$^\dagger$ <br>
+Han V. Nguyen $^\ast$, Magnus O. Ulfarsson $^\ast$,  Johannes R. Sveinsson $^\ast$, and Mauro Dalla Mura $^\dagger$ <br>
 $^\ast$ Faculty of Electrical and Computer Engineering, University of Iceland, Reykjavik, Iceland<br>
 $^\dagger$ GIPSA-Lab, Grenoble Institute of Technology, Saint Martin d’Hères, France.
  Email: hvn2@hi.is
