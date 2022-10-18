@@ -24,7 +24,7 @@ Run the jupyter notebooks and see results.
 - **Sentinel 2 sharpening**
 	+ **APEX dataset**
 	
-		| SNR=40  |         |         |       |        |           |
+		| SNR=40 (dB)  |         |         |       |        |           |
 		|---------|---------|---------|-------|--------|-----------|
 		| Metrics | SupReME | S2Sharp | SSSS  | BP-DIP | SURE      |
 		| MSRE    | 22.86   | 26.89   | 25.43 | 27.58  | **27.53** |
