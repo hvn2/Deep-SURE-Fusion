@@ -19,3 +19,22 @@ Run the jupyter notebooks and see results.
 - Pytorch 1.8
 - pytorch_wavelets 1.3
 - Numpy, Scipy, Skimage.
+
+## Results
+- **Sentinel 2 sharpening**
+	+ **APEX dataset**
+	
+	| SNR=40  |         |         |       |        |           |
+|---------|---------|---------|-------|--------|-----------|
+| Metrics | SupReME | S2Sharp | SSSS  | BP-DIP | SURE      |
+| MSRE (dB)   | 22.86   | 26.89   | 25.43 | 27.58  | **27.53** |
+| SAM ($$^\circ$$)    | 3.855   | 4.25    | 4.914 | 2.421  | **2.533** |
+| MSSIM   | 0.921   | 0.937   | 0.911 | 0.955  | **0.956** |
+| SNR=30  |         |         |       |        |           |
+| MSRE (dB)   | 22.34   | 23.13   | 20.6  | 23.72  | **25.85** |
+| SAM ($$^\circ$$)     | 4.499   | 5.637   | 9.033 | 3.908  | **2.893** |
+| MSSIM   | 0.905   | 0.896   | 0.836 | 0.906  | **0.94**  |
+
+    + **Real dataset**
+![image](result1.png "a title")
+![image](result2.png "a title")
