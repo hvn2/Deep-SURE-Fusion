@@ -14,7 +14,7 @@ The following folders contanin:
 - data: The simulated HSI (PU and DC), simulated S2 (APEX) and the S2 real data, and Pledades dataset (Pansharpening).
 - models: python scripts define the models
 - utils: additional functions<br>
-Run the jupyter notebooks and see results.
+**Run the jupyter notebooks and see results.**
 ## Environment
 - Pytorch 1.8
 - pytorch_wavelets 1.3
