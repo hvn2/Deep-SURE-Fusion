@@ -23,7 +23,7 @@ The following folders contanin:
 ## Results
 - **Sentinel 2 sharpening**
 	+ 	Simulated dataset
-		![image](result3.png){width=50%}	
+		<img src="result3.png" alt="drawing" width="200"/>
 	+ **Real dataset**
 		![image](result1.png "a title")
 		![image](result2.png "a title")
