@@ -24,7 +24,7 @@ The following folders contanin:
 - **Sentinel 2 sharpening**
 	+ 	**Simulated dataset**
 	
-		<p align="center"><img src="result3.png" alt="drawing" width="50%"/>
+		<p align="center"><img src="result3.png" alt="drawing" width="500"/>
 	+ **Real dataset**
 		![image](result1.png "a title")
 		![image](result2.png "a title")
