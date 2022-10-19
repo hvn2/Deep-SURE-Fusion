@@ -22,9 +22,9 @@ The following folders contanin:
 
 ## Results
 - **Sentinel 2 sharpening**
-	+ 	Simulated dataset
+	+ 	**Simulated dataset**
 	
-		<img src="result3.png" alt="drawing" width="500"/>
+		<img src="result3.png" alt="drawing" width="50%"/>
 	+ **Real dataset**
 		![image](result1.png "a title")
 		![image](result2.png "a title")
