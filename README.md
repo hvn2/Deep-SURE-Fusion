@@ -26,7 +26,6 @@ The following folders contanin:
 **Run the jupyter notebooks and see results.**
 ## Environment
 - Pytorch 1.8
-- pytorch_wavelets 1.3
 - Numpy, Scipy, Skimage.
 
 ## Results
